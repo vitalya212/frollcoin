@@ -1,0 +1,9 @@
+Building Frollcoin
+
+See doc/readme-qt.rst for instructions on building Frollcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Frollcoin.
+
+See doc/build-*.txt for instructions on building frollcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Frollcoin.
